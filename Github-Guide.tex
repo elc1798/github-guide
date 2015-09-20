@@ -349,7 +349,7 @@ The above chunk of commands is a lot, so let's break it down.
     specifies the commit message. A good commit message should explain what was
     changed in the project.
 \item Since we just committed, \verb|git status| will tell us that once again
-    our working directory is clean.a
+    our working directory is clean.
 \item \verb|git log| will show us a list of previous commits, as well as their
     commit messages.
 \end{enumerate}
@@ -389,6 +389,36 @@ On branch master
 nothing to commit, working directory clean
 $ cat README.txt                                       (9)
 A brand new git project
+$ echo "Second commit" >> README.txt                   (10) 
+$ cat README.txt                                       (11)
+A brand new git project
+Second commit
+$ git add README.txt                                   (12)
+$ git commit -m "second commit"                        (13)
+[master 57360d8] second commit
+ 1 file changed, 1 insertion(+)
+$ git log --abbrev-commit                              (14)
+commit 57360d8
+Author: elc1798 <subliminalmau5@gmail.com>
+Date:   Sun Sep 20 14:55:37 2015 -0400
+
+    second commit
+
+commit 17e2103
+Author: elc1798 <subliminalmau5@gmail.com>
+Date:   Sun Sep 20 14:50:15 2015 -0400
+
+    my first commit
+$ git checkout 17e2103 README.txt                      (15)
+$ cat README.txt                                       (16) 
+A brand new git project
+$ git checkout HEAD README.txt                         (17)
+$ cat README.txt                                       (18)
+A brand new git project
+Second commit
+$ git status                                           (19)
+On branch master
+nothing to commit, working directory clean
 \end{verbatim}
 
 Let's explain this chunk of commands.
@@ -401,10 +431,10 @@ Let's explain this chunk of commands.
 \item Just for demonstration purposes, \verb|ls| tells us the only non-hidden
     file is \verb|README.txt|
 
-\item We display the contents of \verb|README.txt|, which says "A brand new git
-    project" (from the previous section).
+\item We display the contents of \verb|README.txt|, which says ``A brand new git
+    project'' (from the previous section).
 
-\item We change the contents of \verb|README.txt| to "Modify file"
+\item We change the contents of \verb|README.txt| to ``Modify file''
 
 \item Verify the contents changed with \verb|cat|
 
@@ -412,8 +442,39 @@ Let's explain this chunk of commands.
 
 \item \verb|git checkout README.txt| is our `checking out.' \verb|git checkout <FILENAME>|
     will take a file called \verb|<FILENAME>| from the most recent
-    version of the project and put that 
+    version of the project and put that into the current working directory.
 
+\item \verb|git status| tells us that the local modifications have been
+    overwritten and the working directory is clean.
+
+\item Verify the contents changed with \verb|cat|
+
+\item We changed the contents of \verb|README.txt| by adding the second line
+    ``Second commit.''
+
+\item Verify the contents changed with \verb|cat|
+
+\item We add the modified file to the trackers with \verb|git add|.
+
+\item We commit the change with the message ``second commit.''
+
+\item \verb|git log --abbrev-commit| shows us a list of previous commits, with
+    each commit abbreviated.
+
+\item We once again `check out' \verb|README.txt| with \verb|git checkout|,
+    except this time we specify the commit, so now the local working directory's
+    version of \verb|README.txt| is the same as that in commit \verb|17e2103|.
+    By doing \verb|git checkout <COMMIT> <FILENAME>|, the local file called
+    \verb|FILENAME| will be reverted to its version in \verb|COMMIT|
+
+\item Verify the contents changed with \verb|cat|
+
+\item We can also revert to the latest commit by using \verb|git checkout HEAD README.txt|,
+    we change the file to the most current commit.
+
+\item Verify the contents changed with \verb|cat|
+
+\item We can now see that the working directory is up to date with \verb|git status|.
 \end{enumerate}
 
 \subsubsection{Branches}

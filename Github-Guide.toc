@@ -10,4 +10,4 @@
 \contentsline {subsection}{\numberline {3.2}Basic Git Commands}{13}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Keeping Track of and Using Multiple Versions}{16}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Checking Out}{16}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Branches}{17}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2}Branches}{18}{subsubsection.3.3.2}
