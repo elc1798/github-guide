@@ -11,3 +11,5 @@
 \contentsline {subsection}{\numberline {3.3}Keeping Track of and Using Multiple Versions}{16}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Checking Out}{16}{subsubsection.3.3.1}
 \contentsline {subsubsection}{\numberline {3.3.2}Branches}{18}{subsubsection.3.3.2}
+\contentsline {section}{\numberline {4}Online Usage}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}Creating and Cloning a Git Repository}{19}{subsection.4.1}
