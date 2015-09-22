@@ -1,3 +1,4 @@
+%{{{ Preamble
 \documentclass[11pt,fleqn]{article}
 
 %% This first part is the document header, which you don't need to edit.
@@ -32,7 +33,7 @@ raise base}
 \setlength{\textheight}{20cm}
 \setlength{\parindent}{0px}
 \setlength{\parskip}{10pt}
-
+%}}}
 \begin{document}
 
 \topskip0pt
@@ -53,12 +54,14 @@ Ethan Cheng, Yicheng Wang
 \newpage
 \tableofcontents
 
+%{{{ Intro
 \newpage
 \section{Introduction}
 I made this guide because GitHub is an awesome tool, but using it incorrectly
 will cause a lot of problems. This guide is to serve as a tutorial and a
 reference for people using GitHub.
-
+%}}}
+%{{{ Installation
 \section{Installation}
 \subsection{Windows}
 There are two ways of using GitHub on Windows. One way is via the graphical
@@ -230,7 +233,8 @@ terminal, and using your preferred package manager, install \texttt{git}.
 \verb|$ yum install git|
 \newline
 \verb|$ sudo apt-get install git|
-
+%}}}
+%{{{ Local Usage
 \section{Local Usage}
 \texttt{Git} is a version tracking system for your coding projects. It was made
 so that a programmer can easily go through revision history, create multiple
@@ -489,5 +493,16 @@ project.
 \end{verbatim}
 
 As usual, let's break down the chunk of commands above.
+%}}}
+%{{{ Online Usage
+\newpage
+\section{Online Usage}
+Of course, github is more than \verb|git|, it is not only a version tracking
+system, but also a collaboration tool. It is important to know how to use github
+the website as well as how to access and edit the network within the terminal.
 
+\subsection{Creating and Cloning a Git Repository}
+On the github website, once you log in, you will see the github dashboard, in 
+
+%}}}
 \end{document}
