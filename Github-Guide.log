@@ -581,7 +581,7 @@ LaTeX Info: Redefining \nameref on input line 37.
 
 
 ABD: EveryShipout initializing macros
-<GitHubLogo.jpg, id=59, 399.4925pt x 139.52126pt>
+<GitHubLogo.jpg, id=67, 399.4925pt x 139.52126pt>
 File: GitHubLogo.jpg Graphic file (type jpg)
  <use GitHubLogo.jpg>
 Package pdftex.def Info: GitHubLogo.jpg used on input line 45.
@@ -603,108 +603,108 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout6 = `Github-Guide.toc'.
 
  [2]
-<gitwininstall1.png, id=92, 504.88625pt x 387.4475pt>
+<gitwininstall1.png, id=102, 504.88625pt x 387.4475pt>
 File: gitwininstall1.png Graphic file (type png)
- <use gitwininstall1.png>
+
+<use gitwininstall1.png>
 Package pdftex.def Info: gitwininstall1.png used on input line 82.
 (pdftex.def)             Requested size: 302.93407pt x 232.47029pt.
-
-[3 <./gitwininstall1.png>] <gitwininstall2.png, id=100, 505.89pt x 387.4475pt>
+ [3 <./gitwininstall1.png>]
+<gitwininstall2.png, id=110, 505.89pt x 387.4475pt>
 File: gitwininstall2.png Graphic file (type png)
-
-<use gitwininstall2.png>
+ <use gitwininstall2.png>
 Package pdftex.def Info: gitwininstall2.png used on input line 89.
 (pdftex.def)             Requested size: 303.53633pt x 232.47029pt.
 
-<gitwininstall3.png, id=101, 504.88625pt x 384.43625pt>
+<gitwininstall3.png, id=111, 504.88625pt x 384.43625pt>
 File: gitwininstall3.png Graphic file (type png)
 
 <use gitwininstall3.png>
 Package pdftex.def Info: gitwininstall3.png used on input line 98.
 (pdftex.def)             Requested size: 302.93407pt x 230.66351pt.
  [4 <./gitwininstall2.png> <./gitwininstall3.png>]
-<gitwininstall4.png, id=110, 506.89375pt x 385.44pt>
+<gitwininstall4.png, id=120, 506.89375pt x 385.44pt>
 File: gitwininstall4.png Graphic file (type png)
  <use gitwininstall4.png>
 Package pdftex.def Info: gitwininstall4.png used on input line 106.
 (pdftex.def)             Requested size: 304.1386pt x 231.26578pt.
 
-<gitwininstall5.png, id=111, 505.89pt x 386.44376pt>
+<gitwininstall5.png, id=121, 505.89pt x 386.44376pt>
 File: gitwininstall5.png Graphic file (type png)
  <use gitwininstall5.png>
 Package pdftex.def Info: gitwininstall5.png used on input line 111.
 (pdftex.def)             Requested size: 303.53633pt x 231.86804pt.
 
 [5 <./gitwininstall4.png> <./gitwininstall5.png>]
-<gitwininstall6.png, id=120, 506.89375pt x 387.4475pt>
+<gitwininstall6.png, id=130, 506.89375pt x 387.4475pt>
 File: gitwininstall6.png Graphic file (type png)
 
 <use gitwininstall6.png>
 Package pdftex.def Info: gitwininstall6.png used on input line 117.
 (pdftex.def)             Requested size: 304.1386pt x 232.47029pt.
- <gitwininstall7.png, id=121, 505.89pt x 386.44376pt>
+ <gitwininstall7.png, id=131, 505.89pt x 386.44376pt>
 File: gitwininstall7.png Graphic file (type png)
 
 <use gitwininstall7.png>
 Package pdftex.def Info: gitwininstall7.png used on input line 122.
 (pdftex.def)             Requested size: 303.53633pt x 231.86804pt.
  [6 <./gitwininstall6.png> <./gitwininstall7.png>]
-<gitwininstall8.png, id=130, 502.87875pt x 383.4325pt>
+<gitwininstall8.png, id=140, 502.87875pt x 383.4325pt>
 File: gitwininstall8.png Graphic file (type png)
 
 <use gitwininstall8.png>
 Package pdftex.def Info: gitwininstall8.png used on input line 128.
 (pdftex.def)             Requested size: 301.72957pt x 230.06126pt.
 
-<gitwininstall9.png, id=131, 504.88625pt x 386.44376pt>
+<gitwininstall9.png, id=141, 504.88625pt x 386.44376pt>
 File: gitwininstall9.png Graphic file (type png)
 
 <use gitwininstall9.png>
 Package pdftex.def Info: gitwininstall9.png used on input line 135.
 (pdftex.def)             Requested size: 302.93407pt x 231.86804pt.
  [7 <./gitwininstall8.png> <./gitwininstall9.png>]
-<gitwininstall10.png, id=141, 504.88625pt x 386.44376pt>
+<gitwininstall10.png, id=151, 504.88625pt x 386.44376pt>
 File: gitwininstall10.png Graphic file (type png)
 
 <use gitwininstall10.png>
 Package pdftex.def Info: gitwininstall10.png used on input line 141.
 (pdftex.def)             Requested size: 302.93407pt x 231.86804pt.
- <gitwininstall11.png, id=143, 505.89pt x 385.44pt>
+ <gitwininstall11.png, id=153, 505.89pt x 385.44pt>
 File: gitwininstall11.png Graphic file (type png)
 
 <use gitwininstall11.png>
 Package pdftex.def Info: gitwininstall11.png used on input line 147.
 (pdftex.def)             Requested size: 303.53633pt x 231.26578pt.
  [8 <./gitwininstall10.png> <./gitwininstall11.png>]
-<gitwininstall12.png, id=152, 407.5225pt x 461.725pt>
+<gitwininstall12.png, id=162, 407.5225pt x 461.725pt>
 File: gitwininstall12.png Graphic file (type png)
 
 <use gitwininstall12.png>
 Package pdftex.def Info: gitwininstall12.png used on input line 154.
 (pdftex.def)             Requested size: 244.51538pt x 277.03714pt.
 
-<gitwininstall13.png, id=153, 589.20125pt x 316.18124pt>
+<gitwininstall13.png, id=163, 589.20125pt x 316.18124pt>
 File: gitwininstall13.png Graphic file (type png)
 
 <use gitwininstall13.png>
 Package pdftex.def Info: gitwininstall13.png used on input line 159.
 (pdftex.def)             Requested size: 353.52347pt x 189.7102pt.
  [9 <./gitwininstall12.png> <./gitwininstall13.png>]
-<gitmacinstall1.png, id=163, 772.8875pt x 407.5225pt>
+<gitmacinstall1.png, id=173, 772.8875pt x 407.5225pt>
 File: gitmacinstall1.png Graphic file (type png)
  <use gitmacinstall1.png>
 Package pdftex.def Info: gitmacinstall1.png used on input line 176.
 (pdftex.def)             Requested size: 386.4428pt x 203.76074pt.
 
 [10 <./gitmacinstall1.png>]
-<gitmacinstall2.png, id=170, 624.3325pt x 440.64626pt>
+<gitmacinstall2.png, id=181, 624.3325pt x 440.64626pt>
 File: gitmacinstall2.png Graphic file (type png)
 
 <use gitmacinstall2.png>
 Package pdftex.def Info: gitmacinstall2.png used on input line 183.
 (pdftex.def)             Requested size: 312.16548pt x 220.32259pt.
 
-<gitmacinstall3.png, id=171, 624.3325pt x 440.64626pt>
+<gitmacinstall3.png, id=182, 624.3325pt x 440.64626pt>
 File: gitmacinstall3.png Graphic file (type png)
 
 <use gitmacinstall3.png>
@@ -748,22 +748,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 508.
  (./Github-Guide.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 508.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 508.
-
-
-Package rerunfilecheck Warning: File `Github-Guide.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Github-Guide.out':
-(rerunfilecheck)             Before: FD4D384A5D883C0163A19FEB94ED1AA3;816
-(rerunfilecheck)             After:  F7C5F4A35D5100201A4CA6C3FCD01098;951.
+Package rerunfilecheck Info: File `Github-Guide.out' has not changed.
+(rerunfilecheck)             Checksum: F7C5F4A35D5100201A4CA6C3FCD01098;951.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 508.
  ) 
 Here is how much of TeX's memory you used:
- 13911 strings out of 493304
- 236240 string characters out of 6139871
+ 13913 strings out of 493304
+ 236267 string characters out of 6139871
  314289 words of memory out of 5000000
- 17008 multiletter control sequences out of 15000+600000
+ 17010 multiletter control sequences out of 15000+600000
  10788 words of font info for 41 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  55i,5n,63p,978b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -773,10 +766,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Github-Guide.pdf (19 pages, 417560 bytes).
+Output written on Github-Guide.pdf (19 pages, 417925 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 227 compressed objects within 3 object streams
+ 299 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
  83 named destinations out of 1000 (max. 500000)
- 202 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
